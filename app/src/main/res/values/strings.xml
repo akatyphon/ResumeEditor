@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ResumeEditor</string>
+    <string name="resume_text">Ansarulhak Ansari\nSoftware Engineer\n\nEmail: monsterking122333@email.com\n\nSKILLS\n-----------------------------\n• Kotlin, Java, Android Development\n• REST APIs, Firebase, MVVM Architecture\n• Git, Github\n\n PROJECTS\n-----------------------------\n• VirusCheck - Scan File and URL for potential threat.</string>
+    <string name="font_size_seekbar">Font Size: %d</string>
+</resources>
